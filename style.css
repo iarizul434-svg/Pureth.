@@ -1,0 +1,27 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  text-align: center;
+}
+.hero {
+  background-color: #004d26;
+  color: white;
+  padding: 2rem 1rem;
+}
+.logo {
+  width: 100px;
+}
+.product {
+  padding: 2rem 1rem;
+}
+.product-image {
+  width: 200px;
+}
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 1rem 0;
+}
